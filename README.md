@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 I’m Qi Xuan, a Year 2 Information Technology student @ Ngee Ann Polytechnic.<br>🤝 I’m interested in using technology to solve real-world problems and support the community.<br>🌱 This GitHub is a collection of a substential amount of my tech projects thus far.<br>⚡ Fun fact: I have a lot of hobbies (e.g. running, dancing, vlogging, editing)
+🔭 I’m Qi Xuan, a Year 2 Information Technology student @ Ngee Ann Polytechnic.<br>🤝 I’m interested in using technology to solve real-world problems and support the community.<br>🌱 This GitHub is a collection of a substential amount of my tech projects thus far.<br>⚡ Fun fact: I have a lot of hobbies (e.g. running, dancing, vlogging, editing).
 
 # 👀 Watch me code in…
 ![Top Languages](https://github.com/qixuaann/github-stats-transparent/raw/output/generated/languages.svg)
