@@ -2,10 +2,10 @@
 🔭 I’m Qi Xuan, a Year 2 Information Technology student @ Ngee Ann Polytechnic.<br>🤝 I’m interested in using technology to solve real-world problems and support the community.<br>🌱 This GitHub is a collection of all my tech projects thus far.<br>⚡ Fun fact: I have a lot of hobbies (e.g. running, dancing, vlogging, editing)
 
 # 👀 Watch me code in…
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qixuaann&size_weight=0.5&count_weight=0.5)
+![Top Languages](https://github.com/qixuaann/github-stats-transparent/raw/output/generated/languages.svg)
 
 # 🤩 My GitHub Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qixuaann&show_icons=true&theme=dark)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/qixuaann?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/qi-xuan-kang-b43144304/) 
